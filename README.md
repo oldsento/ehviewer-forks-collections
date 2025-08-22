@@ -2,7 +2,7 @@
 e绅士ehviewer相关软件汇总
 https://github.com/xiaojieonly/Ehviewer_CN_SXJ ，绿色图标，
 
-https://github.com/Ehviewer-Overhauled/Ehviewer ，1.8.8.3/23年前被弃坑，彩色图标，
+https://github.com/Ehviewer-Overhauled/Ehviewer ，1.8.8.3/2年前存档，彩色图标，
 
 https://github.com/FooIbar/EhViewer ，彩色图标，
 
