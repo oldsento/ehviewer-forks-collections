@@ -30,6 +30,11 @@ https://github.com/xiuhaoli/Manga ，8年前的，
 其他(插件：
 
 https://github.com/az4521/tachiyomiAZ
+
 https://github.com/jobobby04/TachiyomiSY
+
 https://github.com/komikku-app/komikku
+
 https://github.com/NerdNumber9/TachiyomiEH
+
+https://github.com/wgh136/PicaComic
