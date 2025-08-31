@@ -1,4 +1,3 @@
-# ehviewer-forks-collections
 e绅士ehviewer相关软件汇总
 https://github.com/xiaojieonly/Ehviewer_CN_SXJ ，绿色图标，
 
@@ -27,3 +26,10 @@ https://github.com/EhPanda-Team/EhPanda ，iOS端，
 https://github.com/DaidoujiChen/Dai-Hentai ，iOS端，
 
 https://github.com/xiuhaoli/Manga ，8年前的，
+
+其他(插件：
+
+https://github.com/az4521/tachiyomiAZ
+https://github.com/jobobby04/TachiyomiSY
+https://github.com/komikku-app/komikku
+https://github.com/NerdNumber9/TachiyomiEH
