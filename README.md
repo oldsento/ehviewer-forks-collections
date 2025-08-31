@@ -38,3 +38,8 @@ https://github.com/komikku-app/komikku
 https://github.com/NerdNumber9/TachiyomiEH
 
 https://github.com/wgh136/PicaComic
+
+https://github.com/avluis/Hentoid
+
+https://github.com/venera-app/venera
+
