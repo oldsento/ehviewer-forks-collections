@@ -1,6 +1,7 @@
 ![img](https://hitscounter.dev/api/hit?url=https://github.com/oldsento/ehviewer-forks-collections&label=&icon=eye&color=%2380cbc4&message=&style=flat&tz=UTC)
+同步/讨论帖https://chii.in/group/topic/432593
 
-e绅士ehviewer相关软件汇总
+
 https://github.com/xiaojieonly/Ehviewer_CN_SXJ ，绿色图标，
 
 https://github.com/Ehviewer-Overhauled/Ehviewer ，1.8.8.3/2年前存档，彩色图标，
