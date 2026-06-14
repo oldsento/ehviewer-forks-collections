@@ -33,7 +33,7 @@ https://github.com/DaidoujiChen/Dai-Hentai ，iOS端，
 
 https://github.com/xiuhaoli/Manga ，8年前的，
 
-其他(插件：
+### 其他(插件：
 
 https://github.com/az4521/tachiyomiAZ
 
