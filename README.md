@@ -49,3 +49,4 @@ https://github.com/avluis/Hentoid
 
 https://github.com/venera-app/venera
 
+https://github.com/dirtyfancy/easemic ，内置 E-Hentai / ExHentai / nhentai / 禁漫天堂 / 再漫画 / OPDS，支持端到端加密存入 Cloudflare R2 / Bunny / Google Drive / WebDAV 并按页流式直连秒看，防爆菊删库，支持导入 .ehviewer 目录
